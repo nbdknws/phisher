@@ -14,7 +14,7 @@ setuptools.setup(
     description="A tool for monitoring the certificate transparency logs.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    # no URL specified
+    url="https://github.com/nbdknws/phisher",
     packages=setuptools.find_packages(),
     install_requires=[
         "construct==2.10.70",
