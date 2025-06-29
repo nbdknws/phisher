@@ -10,9 +10,9 @@ from rich.console import Console
 from cryptography.x509.oid import NameOID
 
 
-from config import *
-from decoder import extract_cert
-from telegram_notifier import notify_in_telegram
+from phisher.config import *
+from phisher.decoder import extract_cert
+from phisher.telegram_notifier import notify_in_telegram
 
 
 
