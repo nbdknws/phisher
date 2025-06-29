@@ -7,7 +7,7 @@ if os.path.isfile("README.md"):
         long_description = fh.read()
 
 setuptools.setup(
-    name="phisher",
+    name="phisher-ctmonitor",
     version="0.1.0",
     author="Viktoryia Valiuk",
     author_email="viktoriapogorzhelska@gmail.com",
