@@ -1,0 +1,40 @@
+[*] Found domain: imperva.com
+Subject:     CN=imperva.com
+Issuer:      CN=GlobalSign Atlas R3 DV TLS CA 2025 Q2,O=GlobalSign nv-sa,C=BE
+Serial No.:  2366372685433044420061530666340157009
+Version:     v3
+Validity:
+  Not Before (UTC): 2025-06-29 21:02:43+00:00
+  Not After  (UTC): 2025-06-30 21:02:43+00:00
+[*] Found domain: www.chirothinofgulfport.com
+Subject:     CN=www.chirothinofgulfport.com
+Issuer:      CN=WE1,O=Google Trust Services,C=US
+Serial No.:  69417880504571885156803123679790010112
+Version:     v3
+Validity:
+  Not Before (UTC): 2025-06-29 19:07:37+00:00
+  Not After  (UTC): 2025-09-27 20:07:34+00:00
+[*] Found domain: owa.hackaz.de
+Subject:     CN=owa.hackaz.de
+Issuer:      CN=R10,O=Let's Encrypt,C=US
+Serial No.:  520731326384309956659266349929508356274343
+Version:     v3
+Validity:
+  Not Before (UTC): 2025-06-29 19:09:05+00:00
+  Not After  (UTC): 2025-09-27 19:09:04+00:00
+[*] Found domain: mytoz.tech
+Subject:     CN=mytoz.tech
+Issuer:      CN=WR1,O=Google Trust Services,C=US
+Serial No.:  219032081102350087208672237143623392271
+Version:     v3
+Validity:
+  Not Before (UTC): 2025-06-29 07:26:09+00:00
+  Not After  (UTC): 2025-09-27 07:26:08+00:00
+[*] Found domain: trust-l7.paysys.yandex.net
+Subject:     CN=trust-l7.paysys.yandex.net,O=YANDEX LLC,L=Moscow,ST=Moscow,C=RU
+Issuer:      CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE
+Serial No.:  38885864111589579879205039823
+Version:     v3
+Validity:
+  Not Before (UTC): 2024-12-09 21:01:26+00:00
+  Not After  (UTC): 2025-07-11 21:01:26+00:00

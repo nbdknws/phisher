@@ -32,7 +32,7 @@
 ## 🚀 Installation
 
 ```bash
-pip install phisher
+pip install phisher-ctmonitor
 ```
 
 Or clone and install from source:
