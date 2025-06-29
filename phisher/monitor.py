@@ -25,7 +25,7 @@ class CTMonitor:
         self.keywords_file = keywords_file
         self.keywords_list = keywords
         self.log = log
-        self.output_file =output_file
+        self.output_file = output_file
         self.output_format = format
         self.log_list_url = log_list_url
         self.urls = self._get_urls()

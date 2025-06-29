@@ -63,7 +63,8 @@ def main():
 
     colors = ["#01ff87", "#01ffd6","#01f7ff", "#008eff", "#628bff","#5e5299", "purple4","dark_magenta","dark_magenta" ,"dark_magenta" , "purple3" , "purple3" , "purple3" ,"purple3" , "deep_pink3" ,"deep_pink3" ]
     console.print(Gradient(raw_banner, colors=colors))
-    monitor = CTMonitor(args.keywords_file, args.output_file, args.format,args.keywords ,args.notify, args.log )
+    log = args.log or args.output_file
+    monitor = CTMonitor(args.keywords_file, args.output_file, args.format,args.keywords ,args.notify, log )
     monitor.start()
 
 if __name__ == '__main__':
