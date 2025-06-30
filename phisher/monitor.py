@@ -81,6 +81,7 @@ class CTMonitor:
         """ Read keywords """
         k = []
         if os.path.exists(self.keywords_file):
+            print("File exists !!!")
             with open(self.keywords_file) as f:
                 raw = [line.strip() for line in f if line.strip()]
             k.extend([f"*{kw.lower()}*" for kw in raw])
