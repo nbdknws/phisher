@@ -1,6 +1,6 @@
 # Phisher
 
-[![PyPI version](https://img.shields.io/pypi/v/phisher)](https://pypi.org/project/phisher/) [![Python](https://img.shields.io/badge/python-3.7%2B-green)](https://www.python.org/)
+[![PyPI version](https://pypi.org/project/phisher-ctmonitor/)](https://pypi.org/project/phisher-ctmonitor/) [![Python](https://img.shields.io/badge/python-3.7%2B-green)](https://www.python.org/)
 
 > Phisher is a real-time tool designed to monitor Certificate Transparency logs. By default, it displays all newly discovered domains directly in your console. You can also filter the results using specific keywords, set up instant Telegram notifications whenever there's a match, and save certificate details to a file in plain text or CSV format. If you don’t specify keywords or provide a keyword file, Phisher will simply show every domain it finds.
 
