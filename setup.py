@@ -8,7 +8,7 @@ if os.path.isfile("README.md"):
 
 setuptools.setup(
     name="phisher-ctmonitor",
-    version="0.1.1",
+    version="0.1.2",
     author="Viktoryia Valiuk",
     author_email="viktoriapogorzhelska@gmail.com",
     description="A tool for monitoring the certificate transparency logs.",
