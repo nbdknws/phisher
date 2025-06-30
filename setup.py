@@ -32,7 +32,6 @@ setuptools.setup(
     ],
     entry_points={
         "console_scripts": [
-        # phisher will invoke the main() in your __main__.py (or wherever you point it)
         "phisher = phisher.__main__:main",
         ],
     },
